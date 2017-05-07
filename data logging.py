@@ -1,3 +1,5 @@
+# it takes data from DHT11 sensor (temp and humidity) and logs the data into a csv file every 60 minutes
+
 import os
 import time 
 from time import sleep 
