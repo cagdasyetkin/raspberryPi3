@@ -1,4 +1,5 @@
 # it takes data from DHT11 sensor (temp and humidity) and logs the data into a csv file every 60 minutes
+# measurement results can be seen in the file: data_log.csv
 
 import os
 import time 
